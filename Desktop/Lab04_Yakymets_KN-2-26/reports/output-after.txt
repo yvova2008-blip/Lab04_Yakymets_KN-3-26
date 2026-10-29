@@ -1,0 +1,11 @@
+=== HOTEL SYSTEM REPORT ===
+Grand Hotel (Rating: 5) has 50 rooms.
+Available rooms count: 5
+Total price calculation: 450
+Formatted booking: Booking #3 for Alice: 2 nights, status: active, total $700
+Room price desc: Budget
+Service fee (spa): 50
+Simulated booking days cost: 300
+All room types: Standard, Deluxe, Suite, Single, Family, Penthouse, Studio, Presidential
+Calculated final cost with discount: 900
+=== END OF REPORT ===
